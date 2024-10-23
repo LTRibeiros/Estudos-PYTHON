@@ -5,7 +5,7 @@ Cada seção foca em uma área específica da linguagem, permitindo explorar dif
 Estrutura do Portfólio:
 
 Estruturas Sequenciais
-Exemplos de programas simples que seguem uma sequência de instruções, como cálculos matemáticos básicos, manipulação de strings e operações com variáveis.
+(Exemplos de programas simples) Códigos que seguem uma sequência de instruções, como cálculos matemáticos básicos, manipulação de strings e operações com variáveis.
 
 Decisão (Estruturas Condicionais)
 Códigos que utilizam estruturas de decisão, como if, else, e elif, para resolver problemas que exigem escolhas condicionais.
